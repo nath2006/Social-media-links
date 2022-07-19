@@ -1,4 +1,4 @@
-Social-media-links for you social media account
+Social-media-links for your social media account
 =========================
 
 ![thumbnail](./thumbnail.png)
