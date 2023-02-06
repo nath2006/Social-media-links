@@ -11,5 +11,3 @@ Semua assets imges yang ada di folder
 ``` ./image ``` itu semua di dapatkan dari internet.# Social-media-links
 
 # Social-media-links
-# Social-media-links
-# Social-media-links
